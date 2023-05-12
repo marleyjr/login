@@ -7,8 +7,9 @@ Contains a database with user, password and expiration date, thus being an almos
 
 ## Reference
 
- - [Template](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
+ - [Template](https://themewagon.com)
  - [Telegram](https://t.me/freesourcesbr)
+ - [HTMCODEX](https://htmlcodex.com)
 
 
 
