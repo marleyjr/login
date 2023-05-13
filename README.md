@@ -4,6 +4,8 @@ A login, registration and home page for you to use in your project.
 
 Contains a database with user, password and expiration date, thus being an almost complete project.
 
+Database login and password is: admin/admin
+
 
 ## Reference
 
@@ -16,3 +18,4 @@ Contains a database with user, password and expiration date, thus being an almos
 ## Authors
 
 - [@Marleyjr](https://www.github.com/marleyjr)
+
