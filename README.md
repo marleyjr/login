@@ -16,4 +16,3 @@ Contains a database with user, password and expiration date, thus being an almos
 ## Authors
 
 - [@Marleyjr](https://www.github.com/marleyjr)
-
